@@ -8572,8 +8572,6 @@ table:12
 risks:12
 steroid:12
 eau:12
-eau	wisconsin:11
-claire	eau	wisconsin:11
 eau	absurd:11
 eau	absurd	wisconsin:10
 claire	eau	absurd	wisconsin:10
@@ -8602,6 +8600,8 @@ eau	wishes	patently:11
 claire	eau	wishes	patently:11
 absurd	eau	wishes	patently:11
 claire	absurd	eau	wishes	patently:11
+eau	wisconsin:11
+claire	eau	wisconsin:11
 eau	claire:12
 philosopher:12
 philosopher	wisconsin:10
@@ -8796,6 +8796,7 @@ absurd	wishes	claire	eau	whoever	philosopher:11
 patently	wishes	claire	eau	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	whoever	philosopher:11
 wi:12
+wi	wisconsin:11
 wi	absurd:11
 wi	absurd	wisconsin:10
 wi	patently:11
@@ -9050,7 +9051,6 @@ absurd	patently	claire	eau	wi	whoever	philosopher:11
 absurd	wishes	claire	eau	wi	whoever	philosopher:11
 patently	wishes	claire	eau	wi	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	wi	whoever	philosopher:11
-wi	wisconsin:11
 gives:12
 gives	approach:9
 reasonable:12
@@ -9418,9 +9418,9 @@ online	9760	241:11
 408	online	9760	241:11
 guest	online	9760	241:11
 408	guest	online	9760	241:11
+online	communications:12
 online	408:12
 online	408	communications:10
-online	communications:12
 activity:15
 allow:15
 wonder:15
