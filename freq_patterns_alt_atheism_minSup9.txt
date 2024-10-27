@@ -2686,8 +2686,8 @@ type:14
 basic:14
 absolutely:14
 effort:14
-effort	became:9
 effort	dan:9
+effort	became:9
 definitions:15
 knowing:15
 shows:15
@@ -3317,12 +3317,12 @@ ignorance:18
 1993apr15:18
 require:18
 healta:18
-healta	gmt:10
-healta	gmt	college:9
 healta	date:10
 healta	date	gmt:9
 college	healta	date	gmt:9
 healta	date	college:10
+healta	gmt:10
+healta	gmt	college:9
 healta	college:12
 healy:18
 healy	gmt:10
